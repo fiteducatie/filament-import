@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a fork of [konnco/filament-import](https://github.com/konnco/filament-import) with only updated dependencies. 
+
 ![Screenshot of Login](./art/screenshot.png)
 
 # Filament Plugin for Import CSV and XLS into Database
